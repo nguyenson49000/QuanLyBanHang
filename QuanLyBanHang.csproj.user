@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="PRL\GenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\GiaoDien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\HoaDonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\KhachHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\NhanVienForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\QuanLySanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRL\SanSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
