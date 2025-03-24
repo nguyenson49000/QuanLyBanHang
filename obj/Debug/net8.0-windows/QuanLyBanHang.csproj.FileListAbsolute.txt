@@ -55,3 +55,4 @@ E:\DuAn1\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\refint\QuanLyBanHa
 E:\DuAn1\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.pdb
 E:\DuAn1\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.genruntimeconfig.cache
 E:\DuAn1\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\ref\QuanLyBanHang.dll
+E:\DuAn1\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.sourcelink.json
